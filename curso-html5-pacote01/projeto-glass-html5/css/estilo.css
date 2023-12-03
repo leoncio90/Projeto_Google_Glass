@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Yi&display=swap");
 @font-face {
   font-family: "fontelogo";
-  src: url("../_fonts/bubblegum-sans-regular.otf");
+  src: url("../fonts/bubblegum-sans-regular.otf");
 }
 body {
   font-family: aria, sans-serif;
@@ -13,7 +13,7 @@ body {
 
 header#cabecalho {
   border-bottom: 1px #606060 solid;
-  background: url(../_imagens/glass-logo-peq.jpg) no-repeat 0px 100px;
+  background: url(../imagens/glass-logo-peq.jpg) no-repeat 0px 100px;
 }
 div#interface {
   width: 900px;
